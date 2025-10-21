@@ -41,7 +41,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais d
 - 1. Use os prompts de roteiro no `chagpt`
 - 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 3. Use os prompts de artes no `copilot`
-- 4. Use `capcut`para edição     
+- 4. Use `midjourney`para edição     
 
 ## ✨ Criadora
 
