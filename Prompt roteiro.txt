@@ -1,0 +1,82 @@
+ROTEIRO - PROMPT
+
+Agora vou te passar umas instruções para me ajudar com um roteiro, certo?
+
+
+Nome do podcast: IA: Vilã ou Heroína? - Entre Linhas de Código 
+
+
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em IA.
+
+O podcast vai falar de forma reflexiva sobre os pontos de vistas positivos e nagativos da IA e o que está acontecendo no mercado.
+
+# Episódio de Podcast
+
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em IA cujo o nome é "IA: Vilã ou Heroína? - Entre Linhas de Código " e tem foco em reflexão, com o público alvo de iniciantes em tecnologia.
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[REFLEXÃO-1] 
+[REFLEXÃO-2] 
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- No bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos de canais Dark no youtube.
+- No bloco [Reflexão 1] substitua por uma reflexão focada nos pontos negativos da IA
+- No bloco [Reflexão 2] - substitua por uma reflexão focada nos pontos positivos da IA
+- No bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Yanca e esse foi o IACast dessa semana' 
+- Use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Yanca. 
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
+
+
+
+RESULTADO:
+
+🎙️ EPISÓDIO 1 – O Despertar da Inteligência Artificial
+
+[INTRODUÇÃO]
+
+Você já parou pra pensar... até onde uma máquina pode ir?
+Uma tecnologia que aprende, cria... e decide.
+O que começou como uma simples ferramenta, hoje questiona os limites do que é ser humano.
+Entre promessas de um futuro perfeito e o medo de perder o controle... surge uma dúvida que ecoa em cada linha de código:
+A inteligência artificial é nossa aliada... ou o início de algo que não podemos conter?
+Seja bem-vindo ao IA: Vilã ou Heroína? — Entre Linhas de Código.
+
+[REFLEXÃO 1 — O Lado Sombrio da IA]
+
+Nos últimos anos, a IA deixou de ser apenas ficção científica.
+Ela escreve textos, cria imagens, prevê comportamentos... e até substitui empregos.
+Mas, com cada avanço, cresce também uma sombra.
+Algoritmos que decidem quem merece uma vaga de emprego.
+Redes que manipulam o que vemos, o que pensamos... e até o que sentimos.
+E quanto mais ela aprende, mais difícil fica entender como ela pensa.
+Afinal... o que acontece quando uma máquina começa a entender o mundo melhor do que nós?
+Será que estamos criando uma ferramenta ou uma nova forma de poder?
+
+[REFLEXÃO 2 — O Lado Luminoso da IA]
+
+Mas nem toda história precisa de um vilão.
+A mesma tecnologia que preocupa, também salva vidas, melhora diagnósticos e ajuda cientistas a resolver problemas complexos.
+A IA traduz línguas em segundos, cria acessibilidade para pessoas com deficiência e nos conecta como nunca antes.
+Ela não tem ambição, não tem medo — apenas segue o que ensinamos.
+E talvez o verdadeiro perigo não esteja nas máquinas... mas em quem as programa.
+Afinal, o código só reflete quem somos.
+
+[FINALIZAÇÃO]
+
+A linha entre o herói e o vilão nunca foi tão fina.
+E talvez... a resposta não esteja na IA, mas na forma como escolhemos usá-la.
+Eu sou Yanca, e esse foi o IACast dessa semana.
+Até o próximo episódio — onde a próxima linha de código pode mudar tudo.
+
+
+
+
